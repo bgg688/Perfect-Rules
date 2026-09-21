@@ -398,15 +398,15 @@ function main(config) {
 
     "日本": "Japan.png",
 
-    "新加坡": "Singapore.png",
+    "坡县": "Singapore.png",
 
-    "韩国": "Korea.png",
+    "首尔": "Korea.png",
 
-    "美国": "United_States.png",
+    "洛城": "United_States.png",
 
-    "加拿大": "Other.png",
+    "荷兰": "Other.png",
 
-    "英国": "Other.png",
+    "澳洲": "Other.png",
 
     "其他地区": "Other.png"
 
@@ -466,15 +466,15 @@ function main(config) {
 
     "日本": true,
 
-    "新加坡": true,
+    "坡县": true,
 
-    "韩国": true,
+    "首尔": true,
 
-    "美国": true,
+    "洛城": true,
 
-    "加拿大": true,
+    "荷兰": true,
 
-    "英国": true,
+    "澳洲": true,
 
     "其他地区": true
 
@@ -1262,9 +1262,9 @@ function main(config) {
     ],
 
 
-    "新加坡": [
+    "坡县": [
 
-      /新加坡/i,
+      /坡县/i,
 
       /\bSG\b/i,
 
@@ -1277,9 +1277,9 @@ function main(config) {
     ],
 
 
-    "韩国": [
+    "首尔": [
 
-      /韩国/i,
+      /首尔/i,
 
       /韓國/i,
 
@@ -1298,9 +1298,9 @@ function main(config) {
     ],
 
 
-    "美国": [
+    "洛城": [
 
-      /美国/i,
+      /洛城/i,
 
       /\bUS\b/i,
 
@@ -1327,9 +1327,9 @@ function main(config) {
     ],
 
 
-    "加拿大": [
+    "荷兰": [
 
-      /加拿大/i,
+      /荷兰/i,
 
       /Canada/i,
 
@@ -1342,9 +1342,9 @@ function main(config) {
     ],
 
 
-    "英国": [
+    "澳洲": [
 
-      /英国/i,
+      /澳洲/i,
 
       /UK/i,
 
@@ -1406,15 +1406,15 @@ function main(config) {
 
     "日本": [],
 
-    "新加坡": [],
+    "坡县": [],
 
-    "韩国": [],
+    "首尔": [],
 
-    "美国": [],
+    "洛城": [],
 
-    "加拿大": [],
+    "荷兰": [],
 
-    "英国": [],
+    "澳洲": [],
 
     "其他地区": []
 
@@ -1455,15 +1455,15 @@ function main(config) {
 
     "日本",
 
-    "新加坡",
+    "坡县",
 
-    "韩国",
+    "首尔",
 
-    "美国",
+    "洛城",
 
-    "加拿大",
+    "荷兰",
 
-    "英国",
+    "澳洲",
 
     "其他地区"
 
